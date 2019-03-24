@@ -1689,8 +1689,6 @@ body {
   color: #767676 !important;
 }
 .cid-rlFB1WfMug {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/jeremy-bishop-280307-unsplash-2000x1333.jpg");
 }
 .cid-rlFB1WfMug .mbr-figure {
@@ -1711,12 +1709,12 @@ body {
 }
 .cid-rlFB1WfMug H3 {
   color: #cccccc;
-  text-align: center;
+  text-align: left;
 }
 .cid-rlFB1WfMug .mbr-text,
 .cid-rlFB1WfMug .mbr-section-btn {
   color: #c1c1c1;
-  text-align: center;
+  text-align: left;
 }
 .cid-rlFRYXrmY5 {
   padding-top: 60px;
